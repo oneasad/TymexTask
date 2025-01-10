@@ -1,5 +1,3 @@
----
-
 # Currency Converter App
 
 A modern, real-time **Currency Converter App** that uses the **Exchange Rate API** to provide up-to-date currency conversion rates. The app is built using **Kotlin** and follows best practices with a clean architecture, including **ViewModel**, **UIState**, and a **repository pattern**. It uses **Ktor** for API communication and includes a dropdown menu for selecting source (`From`) and target (`To`) currencies.
@@ -18,7 +16,7 @@ A modern, real-time **Currency Converter App** that uses the **Exchange Rate API
 ---
 
 ## **Screenshots**
-*(Add screenshots of the app UI once available)*
+![CurrencyApp](https://github.com/user-attachments/assets/abf299f0-d292-416e-a2be-4352eb3f23ce)
 
 ---
 
