@@ -1,5 +1,3 @@
----
-
 # Tymex Tasks' Solution
 
 This repository contains solutions to two distinct assignments:  
@@ -22,7 +20,7 @@ A modern, real-time currency conversion application using the Exchange Rate API.
 - Clean codebase with repository pattern and error handling.
 
 #### **Folder**: `BasicMobileApplicationDevelopment/`  
-[Detailed README here](BasicMobileApplicationDevelopment/README.md)
+[Detailed README here](Basic Mobile Application Development/README.md)
 
 ---
 
@@ -38,7 +36,7 @@ This folder contains solutions to two standalone problems implemented in **Kotli
    - Find a missing number from an array of integers ranging from `1` to `n+1`.
 
 #### **Folder**: `CodingSkillsAssessment/`  
-[Detailed README here](CodingSkillsAssessment/README.md)
+[Detailed README here](Coding Skills Assessment/README.md)
 
 ---
 
