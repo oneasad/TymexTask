@@ -36,7 +36,7 @@ This folder contains solutions to two standalone problems implemented in **Kotli
    - Find a missing number from an array of integers ranging from `1` to `n+1`.
 
 #### **Folder**: `Coding Skills Assessment/`  
-[CodingSkillsAssessment/README.md](https://github.com/oneasad/TymexTask/blob/main/Basic%20Mobile%20Application%20Development/README.md)
+[Detailed README here](https://github.com/oneasad/TymexTask/blob/main/Basic%20Mobile%20Application%20Development/README.md)
 
 ---
 
