@@ -16,8 +16,7 @@ A modern, real-time **Currency Converter App** that uses the **Exchange Rate API
 ---
 
 ## **Screenshots**
-![CurrencyApp](https://github.com/user-attachments/assets/abf299f0-d292-416e-a2be-4352eb3f23ce)
-
+<img src="https://github.com/user-attachments/assets/abf299f0-d292-416e-a2be-4352eb3f23ce" alt="CurrencyApp" width="400"/>
 ---
 
 ## **Tech Stack**
