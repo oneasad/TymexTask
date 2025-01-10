@@ -1,5 +1,3 @@
----
-
 # Product Inventory Management and Missing Number Problem Solutions
 
 This repository contains solutions to two problems: **Product Inventory Management** and **Missing Number Problem**, implemented in **Kotlin**.
