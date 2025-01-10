@@ -19,8 +19,8 @@ A modern, real-time currency conversion application using the Exchange Rate API.
 - Follows the **MVVM architecture** with `ViewModel` and `UIState`.
 - Clean codebase with repository pattern and error handling.
 
-#### **Folder**: `BasicMobileApplicationDevelopment/`  
-[Detailed README here](Basic Mobile Application Development/README.md)
+#### **Folder**: `Basic Mobile Application Development/`  
+[Detailed README here](BasicMobileApplicationDevelopment/README.md)
 
 ---
 
@@ -35,8 +35,8 @@ This folder contains solutions to two standalone problems implemented in **Kotli
 2. **Missing Number Problem**:  
    - Find a missing number from an array of integers ranging from `1` to `n+1`.
 
-#### **Folder**: `CodingSkillsAssessment/`  
-[Detailed README here](Coding Skills Assessment/README.md)
+#### **Folder**: `Coding Skills Assessment/`  
+[Detailed README here](CodingSkillsAssessment/README.md)
 
 ---
 
