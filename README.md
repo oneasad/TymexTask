@@ -20,7 +20,7 @@ A modern, real-time currency conversion application using the Exchange Rate API.
 - Clean codebase with repository pattern and error handling.
 
 #### **Folder**: `Basic Mobile Application Development/`  
-[Detailed README here](BasicMobileApplicationDevelopment/README.md)
+[Detailed README here](https://github.com/oneasad/TymexTask/blob/main/Basic%20Mobile%20Application%20Development/README.md)
 
 ---
 
@@ -36,7 +36,7 @@ This folder contains solutions to two standalone problems implemented in **Kotli
    - Find a missing number from an array of integers ranging from `1` to `n+1`.
 
 #### **Folder**: `Coding Skills Assessment/`  
-[Detailed README here](CodingSkillsAssessment/README.md)
+([CodingSkillsAssessment/README.md](https://github.com/oneasad/TymexTask/blob/main/Basic%20Mobile%20Application%20Development/README.md))
 
 ---
 
